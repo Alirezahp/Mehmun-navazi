@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+div.main{
+	width: 1000px;
+	height: 600px;
+	background-color: darkgray;
+	margin: 10px auto 0 auto;
+ }
+
+div.left{
+	width: 200px;
+	height: 500px;
+	background-color: #DD4D00;
+	float: left;
+	font-size: 30px;
+	line-height: 500px;
+	text-align: center;
+}
+
+div.right{
+	width: 200px;
+	height: 500px;
+	background-color: #DD4D00;
+	float: right;
+	font-size: 30px;
+	line-height: 500px;
+	text-align: center;
+}
+
+div.center{
+	width: 500px;
+	height: 400px;
+	background-color: #19DD00;
+	font-size: 30px;
+	text-align: center;
+	line-height: 400px;
+	margin: 0 auto 0 auto;
+}
